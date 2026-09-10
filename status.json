@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-09 18:05",
+ "generated": "2026-09-09 18:26",
  "commit": "be69e9a",
- "heartbeat": "2026-09-09T17:54:57-06:00",
+ "heartbeat": "2026-09-09T18:24:40-06:00",
  "completion": {
   "pct": 45.5,
   "done": 93,
@@ -219,23 +219,23 @@
    "remit": "kernel & self-hosting",
    "branch": "kernel-k1",
    "n7": 46,
-   "when": "50 minutes ago",
+   "when": "71 minutes ago",
    "subj": "rulings: all eight E-rulings closed, each with falsifiers"
   },
   {
    "ren": "ENTELECHEIA",
    "remit": "linker & module system",
    "branch": "track-b",
-   "n7": 39,
-   "when": "11 minutes ago",
-   "subj": "linker slice 20: shape is not the cause either — a real object still misses by 18x"
+   "n7": 40,
+   "when": "2 minutes ago",
+   "subj": "linker slice 21: RSS and TIME have different drivers; the blob axis is real but partial"
   },
   {
    "ren": "ELENCHOS",
    "remit": "evaluator & debugger",
    "branch": "track-c",
    "n7": 56,
-   "when": "24 hours ago",
+   "when": "25 hours ago",
    "subj": "gate_selfext0.py: a comment is not an execution path"
   },
   {
@@ -243,7 +243,7 @@
    "remit": "bare-metal HAL",
    "branch": "track-d",
    "n7": 27,
-   "when": "34 minutes ago",
+   "when": "55 minutes ago",
    "subj": "collapse every inlined fast path onto ncc3.sh — 68 builders, one definition, and two gate "
   },
   {
@@ -251,7 +251,7 @@
    "remit": "signatures & crypto",
    "branch": "track-e",
    "n7": 31,
-   "when": "5 hours ago",
+   "when": "6 hours ago",
    "subj": "build.sh:7112 — re-derive the gate census the note itself demands, and record that its met"
   }
  ],
@@ -316,11 +316,11 @@
   "pipefail-sigpipe-verdict"
  ],
  "meta": {
-  "trajectory_samples": 14,
+  "trajectory_samples": 20,
   "sessions_logged": 1,
   "push_gate_measured": true,
   "push_gate_clear": false,
-  "push_gate_reasons": 6
+  "push_gate_reasons": 5
  },
  "bounds": [
   "completion % is a census of equally-weighted items, not effort",

@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-09 19:25",
+ "generated": "2026-09-09 19:29",
  "commit": "be69e9a",
- "heartbeat": "2026-09-09T19:18:57-06:00",
+ "heartbeat": "2026-09-09T19:29:15-06:00",
  "completion": {
   "pct": 45.5,
   "done": 93,
@@ -226,9 +226,9 @@
    "ren": "ENTELECHEIA",
    "remit": "linker & module system",
    "branch": "track-b",
-   "n7": 44,
-   "when": "11 minutes ago",
-   "subj": "gate_link_kernel: assemble the input HERE — making true a claim I had already made"
+   "n7": 45,
+   "when": "15 seconds ago",
+   "subj": "LINKER slice 23: the control for slice 22 — relocations cost RSS but scale linearly"
   },
   {
    "ren": "ELENCHOS",
@@ -242,9 +242,9 @@
    "ren": "POROS",
    "remit": "bare-metal HAL",
    "branch": "track-d",
-   "n7": 30,
-   "when": "6 minutes ago",
-   "subj": "gate_pointer + gate_cursor: not \"they simply need longer\" — they needed the fast compiler"
+   "n7": 31,
+   "when": "2 minutes ago",
+   "subj": "the last four unwired gates, run: one wired, three red for three different reasons"
   },
   {
    "ren": "LOIPON",

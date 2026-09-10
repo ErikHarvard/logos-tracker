@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-09 19:21",
+ "generated": "2026-09-09 19:25",
  "commit": "be69e9a",
  "heartbeat": "2026-09-09T19:18:57-06:00",
  "completion": {
@@ -227,7 +227,7 @@
    "remit": "linker & module system",
    "branch": "track-b",
    "n7": 44,
-   "when": "8 minutes ago",
+   "when": "11 minutes ago",
    "subj": "gate_link_kernel: assemble the input HERE — making true a claim I had already made"
   },
   {
@@ -235,7 +235,7 @@
    "remit": "evaluator & debugger",
    "branch": "track-c",
    "n7": 56,
-   "when": "25 hours ago",
+   "when": "26 hours ago",
    "subj": "gate_selfext0.py: a comment is not an execution path"
   },
   {
@@ -243,7 +243,7 @@
    "remit": "bare-metal HAL",
    "branch": "track-d",
    "n7": 30,
-   "when": "3 minutes ago",
+   "when": "6 minutes ago",
    "subj": "gate_pointer + gate_cursor: not \"they simply need longer\" — they needed the fast compiler"
   },
   {

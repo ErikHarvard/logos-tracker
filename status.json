@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-09 19:39",
+ "generated": "2026-09-10 11:18",
  "commit": "be69e9a",
- "heartbeat": "2026-09-09T19:39:24-06:00",
+ "heartbeat": "2026-09-10T11:18:55-06:00",
  "completion": {
   "pct": 45.5,
   "done": 93,
@@ -200,6 +200,13 @@
    "done": 93,
    "wip": 14,
    "open": 113
+  },
+  {
+   "d": "2026-09-10",
+   "pct": 45.5,
+   "done": 93,
+   "wip": 14,
+   "open": 113
   }
  ],
  "scope_event": {
@@ -212,47 +219,47 @@
   "done_from": 82,
   "done_to": 91
  },
- "days_since_completed_rose": 13,
+ "days_since_completed_rose": 14,
  "tracks": [
   {
    "ren": "METANOĒ",
    "remit": "kernel & self-hosting",
    "branch": "kernel-k1",
    "n7": 46,
-   "when": "2 hours ago",
+   "when": "18 hours ago",
    "subj": "rulings: all eight E-rulings closed, each with falsifiers"
   },
   {
    "ren": "ENTELECHEIA",
    "remit": "linker & module system",
    "branch": "track-b",
-   "n7": 49,
-   "when": "7 seconds ago",
-   "subj": "ROADMAP linker entry: nine gates not eight, and \"excluded\" never meant \"free\""
+   "n7": 50,
+   "when": "5 minutes ago",
+   "subj": "LINKER: record the nine-gate suite run — 56/0/1 SKIP, the entry STAYS [~]"
   },
   {
    "ren": "ELENCHOS",
    "remit": "evaluator & debugger",
    "branch": "track-c",
    "n7": 56,
-   "when": "26 hours ago",
+   "when": "2 days ago",
    "subj": "gate_selfext0.py: a comment is not an execution path"
   },
   {
    "ren": "POROS",
    "remit": "bare-metal HAL",
    "branch": "track-d",
-   "n7": 31,
-   "when": "13 minutes ago",
-   "subj": "the last four unwired gates, run: one wired, three red for three different reasons"
+   "n7": 33,
+   "when": "5 seconds ago",
+   "subj": "the three red gates to verdict: hal4f was overwritten, hal3d is QEMU, dinit1 is Track A's"
   },
   {
    "ren": "LOIPON",
    "remit": "signatures & crypto",
    "branch": "track-e",
-   "n7": 31,
-   "when": "7 hours ago",
-   "subj": "build.sh:7112 — re-derive the gate census the note itself demands, and record that its met"
+   "n7": 33,
+   "when": "63 seconds ago",
+   "subj": "xmssidx: the missing-state halt defends LOSS, not STALENESS — a restored snapshot reissues"
   }
  ],
  "rulings": [
@@ -312,15 +319,17 @@
   "unverified-script",
   "octal-date-arithmetic",
   "deployed-vs-source-drift",
+  "memory-index-deixis",
   "idiom-not-class",
-  "pipefail-sigpipe-verdict"
+  "pipefail-sigpipe-verdict",
+  "wrapper-report-as-subject"
  ],
  "meta": {
-  "trajectory_samples": 43,
+  "trajectory_samples": 44,
   "sessions_logged": 1,
   "push_gate_measured": true,
   "push_gate_clear": false,
-  "push_gate_reasons": 5
+  "push_gate_reasons": 4
  },
  "bounds": [
   "completion % is a census of equally-weighted items, not effort",

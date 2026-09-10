@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-09 19:19",
+ "generated": "2026-09-09 19:21",
  "commit": "be69e9a",
  "heartbeat": "2026-09-09T19:18:57-06:00",
  "completion": {
@@ -227,7 +227,7 @@
    "remit": "linker & module system",
    "branch": "track-b",
    "n7": 44,
-   "when": "5 minutes ago",
+   "when": "8 minutes ago",
    "subj": "gate_link_kernel: assemble the input HERE — making true a claim I had already made"
   },
   {
@@ -243,7 +243,7 @@
    "remit": "bare-metal HAL",
    "branch": "track-d",
    "n7": 30,
-   "when": "27 seconds ago",
+   "when": "3 minutes ago",
    "subj": "gate_pointer + gate_cursor: not \"they simply need longer\" — they needed the fast compiler"
   },
   {

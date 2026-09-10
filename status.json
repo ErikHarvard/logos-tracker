@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-09 18:26",
+ "generated": "2026-09-09 18:32",
  "commit": "be69e9a",
- "heartbeat": "2026-09-09T18:24:40-06:00",
+ "heartbeat": "2026-09-09T18:27:11-06:00",
  "completion": {
   "pct": 45.5,
   "done": 93,
@@ -219,7 +219,7 @@
    "remit": "kernel & self-hosting",
    "branch": "kernel-k1",
    "n7": 46,
-   "when": "71 minutes ago",
+   "when": "76 minutes ago",
    "subj": "rulings: all eight E-rulings closed, each with falsifiers"
   },
   {
@@ -227,7 +227,7 @@
    "remit": "linker & module system",
    "branch": "track-b",
    "n7": 40,
-   "when": "2 minutes ago",
+   "when": "7 minutes ago",
    "subj": "linker slice 21: RSS and TIME have different drivers; the blob axis is real but partial"
   },
   {
@@ -242,9 +242,9 @@
    "ren": "POROS",
    "remit": "bare-metal HAL",
    "branch": "track-d",
-   "n7": 27,
-   "when": "55 minutes ago",
-   "subj": "collapse every inlined fast path onto ncc3.sh — 68 builders, one definition, and two gate "
+   "n7": 28,
+   "when": "5 minutes ago",
+   "subj": "HAL.4g: the gate that had never run is RED, and the edit model is not the bug"
   },
   {
    "ren": "LOIPON",
@@ -316,7 +316,7 @@
   "pipefail-sigpipe-verdict"
  ],
  "meta": {
-  "trajectory_samples": 20,
+  "trajectory_samples": 26,
   "sessions_logged": 1,
   "push_gate_measured": true,
   "push_gate_clear": false,

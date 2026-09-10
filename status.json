@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-10 11:18",
- "commit": "be69e9a",
- "heartbeat": "2026-09-10T11:18:55-06:00",
+ "generated": "2026-09-10 11:53",
+ "commit": "8407934",
+ "heartbeat": "2026-09-10T11:53:03-06:00",
  "completion": {
   "pct": 45.5,
   "done": 93,
@@ -11,10 +11,10 @@
   "caveat": "every item weighs the same; this is a census, not an estimate of effort"
  },
  "repository": {
-  "commits": 449,
+  "commits": 451,
   "tags": 41,
   "first_commit": "2026-06-01",
-  "last_commit": "2026-09-09",
+  "last_commit": "2026-09-10",
   "gates_wired": 40,
   "gates_total": 40
  },
@@ -225,16 +225,16 @@
    "ren": "METANOĒ",
    "remit": "kernel & self-hosting",
    "branch": "kernel-k1",
-   "n7": 46,
-   "when": "18 hours ago",
-   "subj": "rulings: all eight E-rulings closed, each with falsifiers"
+   "n7": 48,
+   "when": "9 minutes ago",
+   "subj": "rulings/E5: append The Lieutenant's 2026-09-10 amendment verbatim; README row marked AMEND"
   },
   {
    "ren": "ENTELECHEIA",
    "remit": "linker & module system",
    "branch": "track-b",
    "n7": 50,
-   "when": "5 minutes ago",
+   "when": "39 minutes ago",
    "subj": "LINKER: record the nine-gate suite run — 56/0/1 SKIP, the entry STAYS [~]"
   },
   {
@@ -249,16 +249,16 @@
    "ren": "POROS",
    "remit": "bare-metal HAL",
    "branch": "track-d",
-   "n7": 33,
+   "n7": 34,
    "when": "5 seconds ago",
-   "subj": "the three red gates to verdict: hal4f was overwritten, hal3d is QEMU, dinit1 is Track A's"
+   "subj": "gate_builder_outputs: one image path, several writers whose bytes could differ -> FAIL; wi"
   },
   {
    "ren": "LOIPON",
    "remit": "signatures & crypto",
    "branch": "track-e",
    "n7": 33,
-   "when": "63 seconds ago",
+   "when": "35 minutes ago",
    "subj": "xmssidx: the missing-state halt defends LOSS, not STALENESS — a restored snapshot reissues"
   }
  ],
@@ -276,7 +276,7 @@
   {
    "id": "E5",
    "q": "Identity Adequacy — \"six rows, not three\"",
-   "verdict": "**RULED 2026-09-09** — **two** open, not six; the bijection is gated in only one direction"
+   "verdict": "**RULED 2026-09-09** — **two** open, not six; the bijection is gated in only one direction · **AMENDED 2026-09-10** — central claim stale; the gap is population, not direction."
   },
   {
    "id": "E11",
@@ -325,7 +325,7 @@
   "wrapper-report-as-subject"
  ],
  "meta": {
-  "trajectory_samples": 44,
+  "trajectory_samples": 45,
   "sessions_logged": 1,
   "push_gate_measured": true,
   "push_gate_clear": false,

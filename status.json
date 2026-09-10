@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-09 18:01",
+ "generated": "2026-09-09 18:05",
  "commit": "be69e9a",
  "heartbeat": "2026-09-09T17:54:57-06:00",
  "completion": {
@@ -219,7 +219,7 @@
    "remit": "kernel & self-hosting",
    "branch": "kernel-k1",
    "n7": 46,
-   "when": "46 minutes ago",
+   "when": "50 minutes ago",
    "subj": "rulings: all eight E-rulings closed, each with falsifiers"
   },
   {
@@ -227,7 +227,7 @@
    "remit": "linker & module system",
    "branch": "track-b",
    "n7": 39,
-   "when": "7 minutes ago",
+   "when": "11 minutes ago",
    "subj": "linker slice 20: shape is not the cause either — a real object still misses by 18x"
   },
   {
@@ -243,7 +243,7 @@
    "remit": "bare-metal HAL",
    "branch": "track-d",
    "n7": 27,
-   "when": "30 minutes ago",
+   "when": "34 minutes ago",
    "subj": "collapse every inlined fast path onto ncc3.sh — 68 builders, one definition, and two gate "
   },
   {
@@ -316,7 +316,7 @@
   "pipefail-sigpipe-verdict"
  ],
  "meta": {
-  "trajectory_samples": 13,
+  "trajectory_samples": 14,
   "sessions_logged": 1,
   "push_gate_measured": true,
   "push_gate_clear": false,

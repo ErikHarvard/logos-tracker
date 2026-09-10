@@ -1,0 +1,332 @@
+{
+ "generated": "2026-09-09 18:01",
+ "commit": "be69e9a",
+ "heartbeat": "2026-09-09T17:54:57-06:00",
+ "completion": {
+  "pct": 45.5,
+  "done": 93,
+  "in_progress": 14,
+  "open": 113,
+  "structural_limits_excluded": 7,
+  "caveat": "every item weighs the same; this is a census, not an estimate of effort"
+ },
+ "repository": {
+  "commits": 449,
+  "tags": 41,
+  "first_commit": "2026-06-01",
+  "last_commit": "2026-09-09",
+  "gates_wired": 40,
+  "gates_total": 40
+ },
+ "trend": [
+  {
+   "d": "2026-06-15",
+   "pct": 50.0,
+   "done": 22,
+   "wip": 6,
+   "open": 22
+  },
+  {
+   "d": "2026-06-16",
+   "pct": 56.0,
+   "done": 25,
+   "wip": 6,
+   "open": 19
+  },
+  {
+   "d": "2026-06-17",
+   "pct": 56.7,
+   "done": 26,
+   "wip": 7,
+   "open": 19
+  },
+  {
+   "d": "2026-06-20",
+   "pct": 58.7,
+   "done": 27,
+   "wip": 7,
+   "open": 18
+  },
+  {
+   "d": "2026-06-21",
+   "pct": 61.8,
+   "done": 31,
+   "wip": 6,
+   "open": 18
+  },
+  {
+   "d": "2026-06-23",
+   "pct": 62.5,
+   "done": 32,
+   "wip": 6,
+   "open": 18
+  },
+  {
+   "d": "2026-06-26",
+   "pct": 64.3,
+   "done": 33,
+   "wip": 6,
+   "open": 17
+  },
+  {
+   "d": "2026-06-28",
+   "pct": 66.1,
+   "done": 34,
+   "wip": 6,
+   "open": 16
+  },
+  {
+   "d": "2026-07-04",
+   "pct": 64.1,
+   "done": 37,
+   "wip": 8,
+   "open": 19
+  },
+  {
+   "d": "2026-07-07",
+   "pct": 65.7,
+   "done": 39,
+   "wip": 10,
+   "open": 18
+  },
+  {
+   "d": "2026-07-08",
+   "pct": 66.4,
+   "done": 40,
+   "wip": 9,
+   "open": 18
+  },
+  {
+   "d": "2026-07-09",
+   "pct": 68.5,
+   "done": 44,
+   "wip": 12,
+   "open": 17
+  },
+  {
+   "d": "2026-07-10",
+   "pct": 70.3,
+   "done": 46,
+   "wip": 12,
+   "open": 16
+  },
+  {
+   "d": "2026-07-11",
+   "pct": 69.6,
+   "done": 48,
+   "wip": 14,
+   "open": 17
+  },
+  {
+   "d": "2026-07-14",
+   "pct": 75.8,
+   "done": 62,
+   "wip": 17,
+   "open": 14
+  },
+  {
+   "d": "2026-07-15",
+   "pct": 77.0,
+   "done": 69,
+   "wip": 16,
+   "open": 15
+  },
+  {
+   "d": "2026-07-16",
+   "pct": 69.5,
+   "done": 80,
+   "wip": 22,
+   "open": 29
+  },
+  {
+   "d": "2026-07-17",
+   "pct": 66.7,
+   "done": 81,
+   "wip": 22,
+   "open": 35
+  },
+  {
+   "d": "2026-07-18",
+   "pct": 66.7,
+   "done": 81,
+   "wip": 22,
+   "open": 35
+  },
+  {
+   "d": "2026-08-04",
+   "pct": 67.0,
+   "done": 82,
+   "wip": 21,
+   "open": 35
+  },
+  {
+   "d": "2026-08-18",
+   "pct": 66.1,
+   "done": 82,
+   "wip": 21,
+   "open": 37
+  },
+  {
+   "d": "2026-08-19",
+   "pct": 66.1,
+   "done": 82,
+   "wip": 21,
+   "open": 37
+  },
+  {
+   "d": "2026-08-22",
+   "pct": 44.7,
+   "done": 91,
+   "wip": 14,
+   "open": 114
+  },
+  {
+   "d": "2026-08-27",
+   "pct": 45.7,
+   "done": 93,
+   "wip": 14,
+   "open": 112
+  },
+  {
+   "d": "2026-09-06",
+   "pct": 45.5,
+   "done": 93,
+   "wip": 14,
+   "open": 113
+  },
+  {
+   "d": "2026-09-09",
+   "pct": 45.5,
+   "done": 93,
+   "wip": 14,
+   "open": 113
+  }
+ ],
+ "scope_event": {
+  "d": "2026-08-22",
+  "delta": 77,
+  "from": 37,
+  "to": 114,
+  "pct_from": 66.1,
+  "pct_to": 44.7,
+  "done_from": 82,
+  "done_to": 91
+ },
+ "days_since_completed_rose": 13,
+ "tracks": [
+  {
+   "ren": "METANOĒ",
+   "remit": "kernel & self-hosting",
+   "branch": "kernel-k1",
+   "n7": 46,
+   "when": "46 minutes ago",
+   "subj": "rulings: all eight E-rulings closed, each with falsifiers"
+  },
+  {
+   "ren": "ENTELECHEIA",
+   "remit": "linker & module system",
+   "branch": "track-b",
+   "n7": 39,
+   "when": "7 minutes ago",
+   "subj": "linker slice 20: shape is not the cause either — a real object still misses by 18x"
+  },
+  {
+   "ren": "ELENCHOS",
+   "remit": "evaluator & debugger",
+   "branch": "track-c",
+   "n7": 56,
+   "when": "24 hours ago",
+   "subj": "gate_selfext0.py: a comment is not an execution path"
+  },
+  {
+   "ren": "POROS",
+   "remit": "bare-metal HAL",
+   "branch": "track-d",
+   "n7": 27,
+   "when": "30 minutes ago",
+   "subj": "collapse every inlined fast path onto ncc3.sh — 68 builders, one definition, and two gate "
+  },
+  {
+   "ren": "LOIPON",
+   "remit": "signatures & crypto",
+   "branch": "track-e",
+   "n7": 31,
+   "when": "5 hours ago",
+   "subj": "build.sh:7112 — re-derive the gate census the note itself demands, and record that its met"
+  }
+ ],
+ "rulings": [
+  {
+   "id": "E3",
+   "q": "which type system is the language's? (= M50)",
+   "verdict": "**RULED 2026-09-09** — dependent types over the five modes; OTS retired; **Seal 2 unblocked**"
+  },
+  {
+   "id": "E4",
+   "q": "the paradox audit operator (item 8)",
+   "verdict": "**RULED 2026-09-09** — ratified + 2 additions; parallax is a fourth *outcome*"
+  },
+  {
+   "id": "E5",
+   "q": "Identity Adequacy — \"six rows, not three\"",
+   "verdict": "**RULED 2026-09-09** — **two** open, not six; the bijection is gated in only one direction"
+  },
+  {
+   "id": "E11",
+   "q": "is the base labelling's uniqueness defended or published as a bet?",
+   "verdict": "**RULED 2026-09-09** — a bet, already; `[A]` on exactly-five is permanent *as posed*"
+  },
+  {
+   "id": "E12",
+   "q": "which derivation of the propositional connectives is the language's?",
+   "verdict": "**RULED 2026-09-09** — unblocked M6/W08; opened E15"
+  },
+  {
+   "id": "E13",
+   "q": "does the φ target govern sigil morphogenesis, or does φ-absence retire it?",
+   "verdict": "**RULED 2026-09-09** — neither; closes with no build"
+  },
+  {
+   "id": "E14",
+   "q": "in which register does `Meta-X ≡ X` hold?",
+   "verdict": "**CLOSED 2026-09-09** — Ω-totality; 7 exceptions → 0 in that register"
+  },
+  {
+   "id": "E15",
+   "q": "does *\"the truth tables are not stipulated\"* stand as `[W]`?",
+   "verdict": "**RULED 2026-09-09** — `[A]`, with a path to `[W]`; found a live gate defect"
+  }
+ ],
+ "sealed_defect_classes": [
+  "grep-c-doubling",
+  "pgrep-self-match",
+  "sed-text-as-regex",
+  "tmux-multiword-grep",
+  "pipe-masks-exit",
+  "subshell-side-effect",
+  "absence-read-as-status",
+  "hardcoded-kill-code",
+  "unlocked-ledger-write",
+  "eval-on-path-with-quote",
+  "send-keys-no-dash-guard",
+  "unverified-script",
+  "octal-date-arithmetic",
+  "deployed-vs-source-drift",
+  "idiom-not-class",
+  "pipefail-sigpipe-verdict"
+ ],
+ "meta": {
+  "trajectory_samples": 13,
+  "sessions_logged": 1,
+  "push_gate_measured": true,
+  "push_gate_clear": false,
+  "push_gate_reasons": 6
+ },
+ "bounds": [
+  "completion % is a census of equally-weighted items, not effort",
+  "the trend is raw checkbox counts at every point, including today; the headline % excludes structural limits",
+  "the page cannot tell you whether a finished item is good, only that a gate ran and passed",
+  "work uncommitted in a worktree is invisible here",
+  "the session log is testimony: a task forgotten entirely would be missing from the log meant to catch it"
+ ]
+}

@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-09 18:41",
+ "generated": "2026-09-09 18:54",
  "commit": "be69e9a",
- "heartbeat": "2026-09-09T18:35:20-06:00",
+ "heartbeat": "2026-09-09T18:51:45-06:00",
  "completion": {
   "pct": 45.5,
   "done": 93,
@@ -219,16 +219,16 @@
    "remit": "kernel & self-hosting",
    "branch": "kernel-k1",
    "n7": 46,
-   "when": "86 minutes ago",
+   "when": "2 hours ago",
    "subj": "rulings: all eight E-rulings closed, each with falsifiers"
   },
   {
    "ren": "ENTELECHEIA",
    "remit": "linker & module system",
    "branch": "track-b",
-   "n7": 41,
-   "when": "10 minutes ago",
-   "subj": "linker slice 22: FOUND IT — RSS is superlinear in the incbin'd data, k~1.67"
+   "n7": 43,
+   "when": "3 minutes ago",
+   "subj": "linker slice 22: correct my own framing — the kernel is ALREADY on the steep part"
   },
   {
    "ren": "ELENCHOS",
@@ -243,7 +243,7 @@
    "remit": "bare-metal HAL",
    "branch": "track-d",
    "n7": 29,
-   "when": "7 minutes ago",
+   "when": "20 minutes ago",
    "subj": "HAL.4g is GREEN and WIRED — there was no codegen fault; the gate was certifying a stale EL"
   },
   {
@@ -316,11 +316,11 @@
   "pipefail-sigpipe-verdict"
  ],
  "meta": {
-  "trajectory_samples": 26,
+  "trajectory_samples": 27,
   "sessions_logged": 1,
   "push_gate_measured": true,
   "push_gate_clear": false,
-  "push_gate_reasons": 4
+  "push_gate_reasons": 5
  },
  "bounds": [
   "completion % is a census of equally-weighted items, not effort",

@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-09 19:29",
+ "generated": "2026-09-09 19:39",
  "commit": "be69e9a",
- "heartbeat": "2026-09-09T19:29:15-06:00",
+ "heartbeat": "2026-09-09T19:39:24-06:00",
  "completion": {
   "pct": 45.5,
   "done": 93,
@@ -226,9 +226,9 @@
    "ren": "ENTELECHEIA",
    "remit": "linker & module system",
    "branch": "track-b",
-   "n7": 45,
-   "when": "15 seconds ago",
-   "subj": "LINKER slice 23: the control for slice 22 — relocations cost RSS but scale linearly"
+   "n7": 49,
+   "when": "7 seconds ago",
+   "subj": "ROADMAP linker entry: nine gates not eight, and \"excluded\" never meant \"free\""
   },
   {
    "ren": "ELENCHOS",
@@ -243,7 +243,7 @@
    "remit": "bare-metal HAL",
    "branch": "track-d",
    "n7": 31,
-   "when": "2 minutes ago",
+   "when": "13 minutes ago",
    "subj": "the last four unwired gates, run: one wired, three red for three different reasons"
   },
   {

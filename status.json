@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-09 18:32",
+ "generated": "2026-09-09 18:41",
  "commit": "be69e9a",
- "heartbeat": "2026-09-09T18:27:11-06:00",
+ "heartbeat": "2026-09-09T18:35:20-06:00",
  "completion": {
   "pct": 45.5,
   "done": 93,
@@ -219,16 +219,16 @@
    "remit": "kernel & self-hosting",
    "branch": "kernel-k1",
    "n7": 46,
-   "when": "76 minutes ago",
+   "when": "86 minutes ago",
    "subj": "rulings: all eight E-rulings closed, each with falsifiers"
   },
   {
    "ren": "ENTELECHEIA",
    "remit": "linker & module system",
    "branch": "track-b",
-   "n7": 40,
-   "when": "7 minutes ago",
-   "subj": "linker slice 21: RSS and TIME have different drivers; the blob axis is real but partial"
+   "n7": 41,
+   "when": "10 minutes ago",
+   "subj": "linker slice 22: FOUND IT — RSS is superlinear in the incbin'd data, k~1.67"
   },
   {
    "ren": "ELENCHOS",
@@ -242,9 +242,9 @@
    "ren": "POROS",
    "remit": "bare-metal HAL",
    "branch": "track-d",
-   "n7": 28,
-   "when": "5 minutes ago",
-   "subj": "HAL.4g: the gate that had never run is RED, and the edit model is not the bug"
+   "n7": 29,
+   "when": "7 minutes ago",
+   "subj": "HAL.4g is GREEN and WIRED — there was no codegen fault; the gate was certifying a stale EL"
   },
   {
    "ren": "LOIPON",
@@ -320,7 +320,7 @@
   "sessions_logged": 1,
   "push_gate_measured": true,
   "push_gate_clear": false,
-  "push_gate_reasons": 5
+  "push_gate_reasons": 4
  },
  "bounds": [
   "completion % is a census of equally-weighted items, not effort",
